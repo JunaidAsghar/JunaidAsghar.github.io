@@ -13,11 +13,10 @@ I’m passionate about applying my knowledge of computer science and Artificial 
 
 ### Internships
 
-<img src="/assets/iav-logo1.png" width="250">                    <img src="/assets/ashtexsolutions-logo.png" width="250">
+<img src="/assets/iav-logo1.jpg" width="250">                    <img src="/assets/ashtexsolutions-logo.png" width="250">
 
 
-* **Artificial Intelligence Research assistant at IAV GmbH ** (Septemper 2017 -- Present * 5 months)
-* **Software Engineering Intern at Qualcomm** (June 2017 - August 2017) 
+* **Artificial Intelligence Research assistant at IAV GmbH** (Septemper 2017 -- Present  5 months) 
   - Applying Deep Neural Network Model in Automotive
   - Give workshops on Artificial Intelligence in Tensorflow
   - Tools Used: Tensorflow, Keras, Python, Numpy, Matplotlib, Pandas, Plotly
