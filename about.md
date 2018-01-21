@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I’m a Master student currenty studying at Rhein-waal University and majoring in Information Engineering and Computer Science. 
+I’m a Master student currenty working as a Research Assistant at IAV GmbH in AI and Deep Learning. 
 
 I’m passionate about applying my knowledge of computer science and Artificial Intelligence in real world examples where we can really engineer better solutions for helping mankind. If you’re working in the fields, don’t hesitate to reach out if you think there’s an opportunity for collaboration. Would love to discuss.
 
