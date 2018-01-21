@@ -13,7 +13,7 @@ I’m passionate about applying my knowledge of computer science and Artificial 
 
 ### Internships
 
-<img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
+<img src="/assets/iav-logo1.png" width="250">                    <img src="/assets/ashtexsolutions-logo.png" width="250">
 
 
 * **Artificial Intelligence Research assistant at IAV GmbH ** (Septemper 2017 -- Present * 5 months)
